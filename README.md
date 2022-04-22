@@ -15,3 +15,14 @@ This course is divided into 3 parts:
 2. **Visualizing Filters of a CNN using TensorFlow**: This is the hands on project that we will work on in Rhyme.
 
 3. Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
+
+## Project Structure
+
+The hands on project on **Visualizing Filters of a CNN using TensorFlow** is divided into following tasks:
+
+**Task 1: Introduction**
+**Task 2: Downloading the Model**
+**Task 3: Get Submodels**
+**Task 4: Image Visualization**
+**Task 5: Training Loop**
+**Task 6: Final Results**
