@@ -26,3 +26,7 @@ The hands on project on **Visualizing Filters of a CNN using TensorFlow** is div
 **Task 4: Image Visualization**
 **Task 5: Training Loop**
 **Task 6: Final Results**
+
+## Link
+
+[https://tfhub.dev/google/imagenet/efficientnet_v2_imagenet1k_b3/feature_vector/2](https://tfhub.dev/google/imagenet/efficientnet_v2_imagenet1k_b3/feature_vector/2)
